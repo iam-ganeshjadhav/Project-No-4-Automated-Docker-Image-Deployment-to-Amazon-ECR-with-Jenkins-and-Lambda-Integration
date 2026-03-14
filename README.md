@@ -422,7 +422,7 @@ SUCCESS
 | Sr No | Screenshot Name | Image |
 |------|----------------|-------|
 | 1 | Jenkins Pipeline Success | ![Jenkins Pipeline](IMG/8.png) |
-| 2 | Docker Image Build | ![Docker Build] (IMG/5.png) |
+| 2 | Docker Image Build | ![Docker Build](IMG/5.png) |
 | 3 | Image Pushed to ECR | ![Docker Push](IMG/2.png) |
 | 4 | Lambda Function  | ![Lambda Execution](IMG/3.png) |
 | 5 | DynamoDB Logs | ![DynamoDB Logs](IMG/6.png) |
